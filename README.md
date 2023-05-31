@@ -14,3 +14,7 @@ While attending Northampton Community College I was working as a Package Handler
 
 <iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="Pie Chart" id="datawrapper-chart-m6IAt" src="https://datawrapper.dwcdn.net/m6IAt/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="640" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
+
+
+<iframe title="Size of Lehigh Schools Over-Time" aria-label="Interactive line chart" id="datawrapper-chart-cEWZ3" src="https://datawrapper.dwcdn.net/cEWZ3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
