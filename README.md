@@ -12,6 +12,13 @@ My name is Paolo Bartolucci and I am a rising Senior CSE major at Lehigh Univers
 While attending Northampton Community College I was working as a Package Handler at UPS and eventually as Part-Time Supervisor. Closer to my graduation, my classes became increasingly difficult and I stopped working at UPS. Near to my graduation at NCC, I acquired a position as an Intern Software Developer at MIAC Analytics I have been working at MIAC for the last 1.5 years and plan on working while attending Lehigh. Over this summer as a continuation of my Capstone project, I will be working as a summer intern at Air Products. Once this position is complete, I will transition back to Working at MIAC as the semester restarts. 
 
 ---
+# PA PSSA Data
+**Data sourced from [PA Department of Education](https://www.education.pa.gov/DataAndReporting/Assessments/Pages/PSSA-Results.aspx)** 
+**Graph created by Paolo Bartolucci**
+
+This first sheet shows the average % of Proficient Scores by each county of Pennsylvania. What is most noteable about this data is the distinct grouping of similar scores in PA's regions. This may be directly related to the sample size associated with these regions.
+
+The second sheet shows an overall % distribution of the percentage of proficient scores by subject and student group. Overall science as a subject shows the greatest percentage value over all student groups. Also this graph shows and ~1% difference on all subjects between the EEL and IEP student groups.
 
 <iframe src="https://public.tableau.com/views/PSSAScores/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" height=1000 width=1000></iframe>
 
