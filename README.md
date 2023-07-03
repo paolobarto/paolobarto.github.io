@@ -38,10 +38,12 @@ The second sheet shows an overall % distribution of the percentage of proficient
 <iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="Pie Chart" id="datawrapper-chart-m6IAt" src="https://datawrapper.dwcdn.net/m6IAt/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="640" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
+---
+Based on data collected by Lehigh University, there is a distinct growth in the size of the College of Arts and Sciences and a noteable decrease in the size of Lehigh's School of Engineering. Although the reason for the decrease in engineering students is not directly known, the size of Arts and Sciences may be attributed to Lehigh's gorwing Art programs. 
 
 <iframe title="Size of Lehigh Schools Over-Time" aria-label="Interactive line chart" id="datawrapper-chart-cEWZ3" src="https://datawrapper.dwcdn.net/cEWZ3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
-
+Although this data includes the year 2020 there is no data points associated with it. This clearly shows a slight decrease in the % of Proficient PSSA scores post-COVID-19. There is belief that this decrease in score is due directly to the transiton to online learnign and a lack of standardized testing preperation. 
 <iframe title="% of Proficient and Above of PSSA Scores" aria-label="Interactive line chart" id="datawrapper-chart-nUyfQ" src="https://datawrapper.dwcdn.net/nUyfQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="414" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
